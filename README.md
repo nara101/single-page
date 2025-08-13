@@ -1,2 +1,3 @@
 # single-page Roadmap front-end
-project URL: https://nara101.github.io/single-page/
+Live link: https://nara101.github.io/single-page/
+project URL: https://roadmap.sh/projects/single-page-cv
